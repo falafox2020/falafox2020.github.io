@@ -1,65 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TV5_HD_2024.svg" group-title="LAZYIPTV",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="Main", HBO
+http://103.140.3.18:16655/hbohd/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="LAZYIPTV", CINEMO!
-https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="Main", HBO Hits
+http://103.140.3.18:16655/hbohits/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="LAZYIPTV", K-MOVIES
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Main", HBO Signature
+http://103.140.3.18:16655/hbosignature/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/OneSPORTS_LOGO-FA-01.png" group-title="LAZYIPTV",One Sports+
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sDFfNjo.png" group-title="Main", HBO Family
+http://103.140.3.18:16655/hbofam/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="LAZYIPTV",HBO
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WFxTH9t/image.png" group-title="Main", Disney Channel
+http://103.140.3.18:16655/disney/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/640px-HBO_Plus_2000.svg.png" group-title="LAZYIPTV",HBO+
-http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/flKo7E5.png" group-title="Main", One News
+http://103.140.3.18:16655/oneMain/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="LAZYIPTV",HBO hits
-https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="Main", Kapamilya Channel
+http://103.140.3.18:16655/kapamilya/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/640px-Rakuten_TV_logo.svg.png" group-title="LAZYIPTV",Rakuten TV
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Main", GMA
+http://103.140.3.18:16655/gma/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg" group-title="LAZYIPTV",MYX PH
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jsCBRq0.png" group-title="Main", TV5
+http://103.140.3.18:16655/tv5/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/640px-Radyo5truefmlogo.webp.png&w=640&q=50" group-title="LAZYIPTV",Radyo 5
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/radyo5_qp.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="Main", PBA Rush
+http://103.140.3.18:16655/pbarush/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="LAZYIPTV",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RrBWZ16.png" group-title="Main", One Sports
+http://103.140.3.18:16655/onesport/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" group-title="LAZYIPTV",Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RQWVFzN/64f01f9708db7bbce637b37e-ENT-LOGO-GOLD-No-Shadow.webp" group-title="Main", Rock Entertainment
+http://103.140.3.18:16655/rockent/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/640px-Animal_Planet_logo.svg.png" group-title="LAZYIPTV",Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="Main", One Sports Plus
+http://103.140.3.18:16655/onesportplus/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="LAZYIPTV",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="Main", A2Z
+http://103.140.3.18:16655/a2z/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="LAZYIPTV",ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Main", GTV
+http://103.140.3.18:16655/gtv/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg" group-title="LAZYIPTV",Arirang
-https://cdn1.skygo.mn/live/disk1/Arirang/HLS-FTA/Arirang.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qXXrmN8.png" group-title="Main", ALLTV
+http://103.140.3.18:16655/alltv/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="LAZYIPTV",Asian Crush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IDCHfXm.png" group-title="Main", RPTV
+http://103.140.3.18:16655/rptv/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_(2004-2010).svg" group-title="LAZYIPTV",Cartoon Network
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EUlYIWv.png" group-title="Main", Celestial Movies Pinoy
+http://103.140.3.18:16655/celestialmoviespinoy/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Nickelodeon_%281984_logo%29.svg/640px-Nickelodeon_%281984_logo%29.svg.png" group-title="LAZYIPTV",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="Main", TMC
+http://103.140.3.18:16655/tmc/touch/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/640px-Cartoonito_-_Logo_2021.svg.png" group-title="LAZYIPTV",Cartoonito
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" group-title="LAZYIPTV",CNA
-https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yHFRiFl.png" group-title="Main", KIX
+http://103.140.3.18:16655/kix/touch/manifest.m3u8
 
 
