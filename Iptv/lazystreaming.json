@@ -1,24 +1,9 @@
 [
-    /*
+
     {
-        "name": "Kapamilya Channel",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kapamilya_channel.png",
+        "name": "",
+        "logo": "",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/Z4WgTtL8Mfc?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "GMA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "Al Jazeera",
-        "logo": "https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/gCNeDWCI0vo?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "NatGeo",
-        "logo": "https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/sg7kF5tpUMk?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
-    */
+
 ]
